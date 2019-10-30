@@ -1,0 +1,4 @@
+sed -i 's/oldstring/newstring/g' filename
+
+diable bitnami codeigniter docker server cache
+opcache.enable = 0 ( 0 = disable)
